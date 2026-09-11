@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-11 15:03:18">
+<cmdb_ci_computer action="INSERT_OR_UPDATE">
+<asset display_value="P1000323 - Dell Inc. PowerEdge T110 II">15a9204d3790200044e0bfc8bcbe5d1a</asset>
+<asset_tag>P1000323</asset_tag>
+<assigned>2025-10-13 07:00:00</assigned>
+<assigned_to display_value="Merle Wyrosdick">8e826bf03710200044e0bfc8bcbe5d46</assigned_to>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status/>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value="ACME South America">227cdfb03710200044e0bfc8bcbe5d6b</company>
+<correlation_id/>
+<cost>695</cost>
+<cost_cc>USD</cost_cc>
+<cost_center display_value="Customer Support">91e8bbf43710200044e0bfc8bcbe5daa</cost_center>
+<cpu_core_count>1</cpu_core_count>
+<cpu_core_thread/>
+<cpu_count>1</cpu_count>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date>2025-01-18 07:00:00</delivery_date>
+<department display_value="Customer Support">5d7f17f03710200044e0bfc8bcbe5d43</department>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date>2025-05-20 08:00:00</install_date>
+<install_status>1</install_status>
+<internet_facing>false</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value="Carrera 54 No. 49 - 31, Medellin">25b672780a0a0bb30090fae60e51bd31</location>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</manufacturer>
+<model_id display_value="Dell Inc. PowerEdge T110 II">46ca8dd4a9fe198101022eb0dc67b16f</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>PowerEdge T110 II</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date>2024-12-22 07:00:00</order_date>
+<os>Windows XP Professional</os>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value=""/>
+<po_number>PO100010</po_number>
+<product_instance_id/>
+<purchase_date>2025-01-03</purchase_date>
+<ram/>
+<schedule display_value=""/>
+<serial_number>QLW-971-A53953-FQ</serial_number>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value=""/>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_computer</sys_class_name>
+<sys_class_path>/!!/!2/!(</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2012-02-18 08:14:43</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>11a9204d3790200044e0bfc8bcbe5d1b</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-04-30 08:40:11</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</vendor>
+<virtual>false</virtual>
+<warranty_expiration>2028-05-19</warranty_expiration>
+</cmdb_ci_computer>
+</unload>

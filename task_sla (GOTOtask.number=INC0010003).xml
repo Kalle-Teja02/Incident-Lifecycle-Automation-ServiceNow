@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-11 14:56:34">
+<task_sla action="INSERT_OR_UPDATE">
+<active>false</active>
+<business_duration>1970-01-01 00:34:35</business_duration>
+<business_pause_duration/>
+<business_percentage>7.2</business_percentage>
+<business_time_left>1970-01-01 07:25:25</business_time_left>
+<duration>1970-01-01 02:05:55</duration>
+<end_time>2026-09-09 15:34:35</end_time>
+<has_breached>false</has_breached>
+<original_breach_time>2026-09-09 23:00:00</original_breach_time>
+<pause_duration/>
+<pause_time/>
+<percentage>22.04</percentage>
+<planned_end_time>2026-09-09 23:00:00</planned_end_time>
+<schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+<sla display_value="Priority 4 response (8 hours)">375397f4c3143200b6dcdfdc64d3ae60</sla>
+<stage>completed</stage>
+<start_time>2026-09-09 13:28:40</start_time>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 15:24:18</sys_created_on>
+<sys_id>3659779073df4b10f855fd145ab8b729</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>david.loo</sys_updated_by>
+<sys_updated_on>2026-09-09 15:34:39</sys_updated_on>
+<task display_value="INC0010003">7f6edb14731f4b10f855fd145ab8b715</task>
+<time_left>1970-01-01 07:25:25</time_left>
+<timezone>America/Los_Angeles</timezone>
+</task_sla>
+<task_sla action="INSERT_OR_UPDATE">
+<active>false</active>
+<business_duration>1970-01-01 00:00:00</business_duration>
+<business_pause_duration/>
+<business_percentage>0</business_percentage>
+<business_time_left>1970-01-01 08:00:00</business_time_left>
+<duration>1970-01-01 00:24:24</duration>
+<end_time>2026-09-09 13:53:04</end_time>
+<has_breached>false</has_breached>
+<original_breach_time>2026-09-09 23:00:00</original_breach_time>
+<pause_duration/>
+<pause_time/>
+<percentage>4.27</percentage>
+<planned_end_time>2026-09-09 23:00:00</planned_end_time>
+<schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+<sla display_value="Priority 4 response (8 hours)">375397f4c3143200b6dcdfdc64d3ae60</sla>
+<stage>completed</stage>
+<start_time>2026-09-09 13:28:40</start_time>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 13:33:15</sys_created_on>
+<sys_id>40ff9318731f4b10f855fd145ab8b781</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>beth.anglin</sys_updated_by>
+<sys_updated_on>2026-09-09 13:53:10</sys_updated_on>
+<task display_value="INC0010003">7f6edb14731f4b10f855fd145ab8b715</task>
+<time_left>1970-01-01 09:06:56</time_left>
+<timezone>America/Los_Angeles</timezone>
+</task_sla>
+<task_sla action="INSERT_OR_UPDATE">
+<active>true</active>
+<business_duration>1970-01-01 18:47:33</business_duration>
+<business_pause_duration/>
+<business_percentage>469.81</business_percentage>
+<business_time_left>1970-01-01 00:00:00</business_time_left>
+<duration>1970-01-01 18:47:33</duration>
+<end_time/>
+<has_breached>true</has_breached>
+<original_breach_time>2026-09-09 19:24:15</original_breach_time>
+<pause_duration/>
+<pause_time>2026-09-10 10:11:48</pause_time>
+<percentage>469.81</percentage>
+<planned_end_time>2026-09-09 19:24:15</planned_end_time>
+<schedule display_value=""/>
+<sla display_value="Network group resolution">ba320982d732220035ae23c7ce610347</sla>
+<stage>paused</stage>
+<start_time>2026-09-09 15:24:15</start_time>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 15:24:23</sys_created_on>
+<sys_id>5869f3d073df4b10f855fd145ab8b7e3</sys_id>
+<sys_mod_count>41</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-10 10:12:08</sys_updated_on>
+<task display_value="INC0010003">7f6edb14731f4b10f855fd145ab8b715</task>
+<time_left>1970-01-01 00:00:00</time_left>
+<timezone>America/Los_Angeles</timezone>
+</task_sla>
+<task_sla action="INSERT_OR_UPDATE">
+<active>true</active>
+<business_duration>1970-01-01 09:00:00</business_duration>
+<business_pause_duration/>
+<business_percentage>18.75</business_percentage>
+<business_time_left>1970-01-02 15:00:00</business_time_left>
+<duration>1970-01-01 20:43:08</duration>
+<end_time/>
+<has_breached>false</has_breached>
+<original_breach_time>2026-09-16 18:00:00</original_breach_time>
+<pause_duration/>
+<pause_time>2026-09-10 10:11:48</pause_time>
+<percentage>12.01</percentage>
+<planned_end_time>2026-09-16 18:00:00</planned_end_time>
+<schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+<sla display_value="Priority 4 resolution (2 day)">b12a37e0d7322200f2d224837e6103ea</sla>
+<stage>paused</stage>
+<start_time>2026-09-09 13:28:40</start_time>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 13:28:53</sys_created_on>
+<sys_id>67ee1394731f4b10f855fd145ab8b78b</sys_id>
+<sys_mod_count>30</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-10 10:12:06</sys_updated_on>
+<task display_value="INC0010003">7f6edb14731f4b10f855fd145ab8b715</task>
+<time_left>1970-01-07 07:48:12</time_left>
+<timezone>America/Los_Angeles</timezone>
+</task_sla>
+</unload>

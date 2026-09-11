@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-11 13:19:00">
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</assigned_to>
+<assignment_group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</assignment_group>
+<business_duration>1970-01-01 08:00:00</business_duration>
+<business_impact/>
+<business_service display_value="Remote Access">787a5e44735bc710f855fd145ab8b7c6</business_service>
+<business_stc>28800</business_stc>
+<calendar_duration>1970-01-01 20:45:08</calendar_duration>
+<calendar_stc>74708</calendar_stc>
+<caller_id display_value="Michael Hoefer">c4713d0dc3313000bac1addbdfba8ff3</caller_id>
+<category>network</category>
+<cause>PowerEdge service was suspended and required restart.</cause>
+<child_incidents>1</child_incidents>
+<close_code>Workaround provided</close_code>
+<close_notes>Restarted VPN-SRV-02 service as per emergency change request.</close_notes>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="PowerEdge T110 II">11a9204d3790200044e0bfc8bcbe5d1b</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value="ACME South America">227cdfb03710200044e0bfc8bcbe5d6b</company>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Michael advised he was able to connect yesterday evening, but this morning received an authentication error. The Internet works fine.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>6</incident_state>
+<knowledge>false</knowledge>
+<location display_value="SHS quadra 5, Bloco E., Brasilia">25b3d04b0a0a0bb300176b546c22db27</location>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010003</number>
+<opened_at>2026-09-09 13:26:40</opened_at>
+<opened_by display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>2</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at>2026-09-10 10:11:48</resolved_at>
+<resolved_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</resolved_by>
+<route_reason/>
+<service_offering display_value="Corporate VPN">554b1e4c735bc710f855fd145ab8b7d2</service_offering>
+<severity>3</severity>
+<short_description>Unable to connect to Corporate VPN from home office</short_description>
+<sla_due/>
+<state>6</state>
+<subcategory>vpn</subcategory>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 13:28:40</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7f6edb14731f4b10f855fd145ab8b715</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-10 10:11:48</sys_updated_on>
+<task_effective_number>INC0010003</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list>96826bf03710200044e0bfc8bcbe5db4</watch_list>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list>46d44a23a9fe19810012d100cca80666</work_notes_list>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>comments</element>
+<element_id>7f6edb14731f4b10f855fd145ab8b715</element_id>
+<name>incident</name>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 15:13:55</sys_created_on>
+<sys_id>87f6b3dc739f4b10f855fd145ab8b79a</sys_id>
+<value>Follow the Steps and Resolve the Incident.
+[code]&lt;a title="How to configure VPN for Apple Devices" href='kb_view.do?sys_kb_id=435186b5474321009db4b5b08b9a7160' &gt;KB0000008 : How to configure VPN for Apple Devices&lt;/a&gt;[/code]</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>7f6edb14731f4b10f855fd145ab8b715</element_id>
+<name>incident</name>
+<sys_created_by>beth.anglin</sys_created_by>
+<sys_created_on>2026-09-09 13:53:03</sys_created_on>
+<sys_id>f274af98731f4b10f855fd145ab8b7c8</sys_id>
+<value>Classified and assigned incident.</value>
+</sys_journal_field>
+</unload>

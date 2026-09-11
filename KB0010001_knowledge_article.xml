@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-11 13:21:10">
+<kb_knowledge action="INSERT_OR_UPDATE">
+<active>true</active>
+<article_id>6dac37a4739bcb10f855fd145ab8b7dc</article_id>
+<article_type>text</article_type>
+<author display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</author>
+<base_version display_value=""/>
+<can_read_user_criteria/>
+<cannot_read_user_criteria/>
+<category/>
+<cmdb_ci display_value=""/>
+<description/>
+<direct>false</direct>
+<disable_commenting>false</disable_commenting>
+<disable_suggesting>false</disable_suggesting>
+<display_attachments>false</display_attachments>
+<display_number>KB0010001 v0.01</display_number>
+<editor_type>TinyMCE</editor_type>
+<flagged>false</flagged>
+<generated_with_now_assist>false</generated_with_now_assist>
+<helpful_count>0</helpful_count>
+<image/>
+<instrumentation_metadata>{"firstLoadTimestamp":1789035441132,"isGenAiGenerated":false,"isGenAiMultiTaskCancelled":false,"taskList":[],"timeTakenToFirstSave":87740}</instrumentation_metadata>
+<kb_category display_value=""/>
+<kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+<latest>true</latest>
+<latest_aqi display_value=""/>
+<meta/>
+<meta_description>Issue - Michael advised he was able to connect yesterday evening, but this morning received an authentication</meta_description>
+<number>KB0010001</number>
+<ownership_group display_value=""/>
+<published/>
+<rating/>
+<replacement_article display_value=""/>
+<retired/>
+<revised_by display_value=""/>
+<roles/>
+<scheduled_publish_date/>
+<short_description>Unable to connect to Corporate VPN from home office</short_description>
+<source display_value="INC0010003">7f6edb14731f4b10f855fd145ab8b715</source>
+<summary display_value="KB0010001">a20d73e4739bcb10f855fd145ab8b735</summary>
+<sys_class_name>kb_knowledge</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-10 10:18:47</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6dac37a4739bcb10f855fd145ab8b7dc</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-10 10:18:52</sys_updated_on>
+<sys_view_count>0</sys_view_count>
+<taxonomy_topic display_value=""/>
+<text><![CDATA[<p><strong>Issue</strong> - Michael advised he was able to connect yesterday evening, but this morning received an authentication error. The Internet works fine.</p><p><strong>Resolution</strong> - Restarted VPN-SRV-02 service as per emergency change request.</p><p><strong>Additional comments</strong> - </p><div><div><span><hr /></span></div><div style=""><span class="tdwrap"><strong>2026-09-09 08:13:55 - <a href="sys_user.do?sysparm_view&#61;itil&amp;sysparm_query&#61;user_name&#61;beth.anglin" rel="nofollow">Beth Anglin</a></strong></span><span style="float:right;"><sup> Comments</sup></span></div><div style=""><span><span style="word-wrap:break-word;display:block;">Follow the Steps and Resolve the Incident.<br /><a href="kb_view.do?sys_kb_id&#61;435186b5474321009db4b5b08b9a7160" title="How to configure VPN for Apple Devices" rel="nofollow">KB0000008 : How to configure VPN for Apple Devices</a></span></span></div></div>]]></text>
+<topic>General</topic>
+<use_count>0</use_count>
+<valid_to>2100-01-01</valid_to>
+<version display_value="0.01">620d73e4739bcb10f855fd145ab8b736</version>
+<view_as_allowed>true</view_as_allowed>
+<wiki/>
+<workflow_state>draft</workflow_state>
+</kb_knowledge>
+</unload>
